@@ -1,4 +1,5 @@
-## Hi there 👋
+## Welcome To My GitHub Profile! 👋
+## Go Visit My Linkedin Profile, Don't Be Shy.
 
 <!--
 **GuyGuyPeres/GuyGuyPeres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
