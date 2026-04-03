@@ -3,7 +3,7 @@
 # Hi there, I'm Guy Peres 👋
 ### 🚀 "The right man in the wrong place can make all the difference in the world (Gman - Half Life 2)"
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Creative+Problem+Solver;Python+Enthusiast" alt="Typing SVG" />
+<!-- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Creative+Problem+Solver;Python+Enthusiast" alt="Typing SVG" /> -->
 
 ---
 
