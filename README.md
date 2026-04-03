@@ -32,6 +32,17 @@
 
 ---
 
+## 👨‍💻 About Me
+
+I am a **DevOps Engineer** with a strong foundation in software development.
+
+- 🔭 **Current Focus:** Optimizing CI/CD pipelines and scaling containerized microservices.
+- ⚙️ **What I Do:** I automate everything from local dev environments to multi-region cloud deployments.
+- 💡 **Philosophy:** If you have to do it twice, automate it - Also make sure to test the code be before pusing it to github ;) 
+- 🌱 **Learning:** Currently diving deeper into IITC DevOps class as a student.
+
+---
+
 ### 🛠️ GitHub Statistics, Languages and Tech Stack 📊
 
 <p align="center">
