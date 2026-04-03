@@ -1,10 +1,10 @@
 <div align="center">
 
 # 🛠️ Hi, I'm Guy Peres 👋 | DevOps Engineer 🚀
-### Bridging the gap between Development and Operations with Code & Automation.
-### 🚀 "The right man in the wrong place can make all the difference in the world (Gman - Half Life 2)"
+###  "The right man in the wrong place can make all the difference in the world (Gman - Half Life 2)"
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=CI%2FCD+Orchestrator;Cloud+Architect;Infrastructure+as+Code;Python+%26+JS+Developer" alt="Typing SVG" />
+
 ---
 
 ### 🧰 The Toolkit
@@ -70,5 +70,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guyperes/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GuyGuyPeres)
+
+### Bridging the gap between Development and Operations with Code & Automation.
 
 </div>
