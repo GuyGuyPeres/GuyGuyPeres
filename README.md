@@ -42,10 +42,12 @@
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GuyGuyPeres&show_icons=true&theme=tokyonight&hide_border=true" alt="Your GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GuyGuyPeres&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Main Stats" width="450" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuyGuyPeres&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuyGuyPeres&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="350" />
 </p>
+
+---
 
 ### 📈 Weekly Activity & Contributions
 
@@ -53,6 +55,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=GuyGuyPeres&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
+---
 
 
 
