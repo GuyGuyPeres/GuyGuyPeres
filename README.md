@@ -3,8 +3,6 @@
 # 👋 Guy Peres | DevOps Engineer 🛠️
 ###  "The right man in the wrong place can make all the difference in the world (Gman - Half Life 2)"
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=CI%2FCD+Orchestrator;Cloud+Architect;Infrastructure+as+Code;Python+%26+JS+Developer" alt="Typing SVG" />
-
 ---
 
 ### 🧰 The Toolkit
