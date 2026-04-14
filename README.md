@@ -1,6 +1,6 @@
 <div align="center"> 
 
-# 👋 Guy Peres | DevOps Engineer 🛠️
+#  Guy Peres | DevOps Engineer 🛠️
 ###  "The right man in the wrong place can make all the difference in the world (Gman - Half Life 2)"
 
 ---
