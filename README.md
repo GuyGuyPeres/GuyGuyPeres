@@ -59,7 +59,9 @@ I am a **DevOps Engineer** with a strong foundation in software development.
 ### 📈 Weekly Activity & Contributions
 
 <p align="center">
+  
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=GuyGuyPeres&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
 </p>
 </div>
 
