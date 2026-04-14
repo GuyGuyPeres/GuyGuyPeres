@@ -4,6 +4,20 @@
 ###  "The right man in the wrong place can make all the difference in the world (Gman - Half Life 2)"
 
 ---
+</div>
+
+
+## 👨‍💻 About Me
+
+I am a **DevOps Engineer** with a strong foundation in software development.
+
+- 🔭 **Current Focus:** Optimizing CI/CD pipelines and scaling containerized microservices.
+- ⚙️ **What I Do:** I automate everything from local dev environments to multi-region cloud deployments.
+- 💡 **Philosophy:** If you have to do it twice, automate it - Also make sure to test the code before pusing it to github ;) 
+- 🌱 **Learning:** Currently diving deeper into IITC DevOps class as a student.
+
+
+---
 
 ### 🧰 The Toolkit
 
@@ -27,18 +41,6 @@
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-
----
-
-## 👨‍💻 About Me
-
-I am a **DevOps Engineer** with a strong foundation in software development.
-
-- 🔭 **Current Focus:** Optimizing CI/CD pipelines and scaling containerized microservices.
-- ⚙️ **What I Do:** I automate everything from local dev environments to multi-region cloud deployments.
-- 💡 **Philosophy:** If you have to do it twice, automate it - Also make sure to test the code before pusing it to github ;) 
-- 🌱 **Learning:** Currently diving deeper into IITC DevOps class as a student.
 
 
 ---
@@ -81,4 +83,4 @@ I am a **DevOps Engineer** with a strong foundation in software development.
 
 ---
 
-</div>
+
