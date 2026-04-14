@@ -44,7 +44,7 @@ I am a **DevOps Engineer** with a strong foundation in software development.
 
 
 ---
-
+<div align="center"> 
 ### 🛠️ GitHub Statistics, Languages and Tech Stack 📊
 
 <p align="center">
@@ -60,7 +60,7 @@ I am a **DevOps Engineer** with a strong foundation in software development.
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=GuyGuyPeres&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
+</div>
 ---
 
 
@@ -80,13 +80,11 @@ I am a **DevOps Engineer** with a strong foundation in software development.
 <div align="center">
   
 ### 📫 Reach Me
-
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guyperes/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GuyGuyPeres)
-
 </div>
 
 <div align="center">
-<sub>"Code is like humor. When you have to explain it, it’s bad.".</sub>
+<sub>"Code is like humor.  When you have to explain it,  it’s bad."</sub>
 </div>
 
