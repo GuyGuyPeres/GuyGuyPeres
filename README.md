@@ -65,22 +65,28 @@ I am a **DevOps Engineer** with a strong foundation in software development.
 
 
 
-
+<div align="center"> 
+  
 ### 📂 Featured Projects
 
 | Project | Description | Stack | Link |
 | :--- | :--- | :--- | :--- |
 | **Coming Soon** | Don't Worry It will be added :) | [View Repo](#) |
 
+</div>
 
 ---
 
-
+</div>
 ### 📫 Reach Me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guyperes/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GuyGuyPeres)
 
 ---
+</div>
 
+<div align="center">
+<sub>"Code is like humor. When you have to explain it, it’s bad.".</sub>
+</div>
 
