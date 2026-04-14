@@ -52,7 +52,7 @@ I am a **DevOps Engineer** with a strong foundation in software development.
   
   <br/>
   
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GuyGuyPeres&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GuyGuyPeres&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   
 ---
 
