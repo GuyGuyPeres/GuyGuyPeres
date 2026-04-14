@@ -49,9 +49,13 @@ I am a **DevOps Engineer** with a strong foundation in software development.
 ### 🛠️ GitHub Statistics, Languages and Tech Stack 📊
 
 <p align="center">
+  
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=GuyGuyPeres&show_icons=true&theme=tokyonight&hide_border=true" alt="Main Stats" width="450" />
+  
   <br/>
+  
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GuyGuyPeres&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="350" />
+  
 </p>
 
 ---
