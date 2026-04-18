@@ -54,17 +54,17 @@ I'm a **DevOps Engineer** with a solid background in software development, bridg
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=GuyGuyPeres&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=ff6e96&icon_color=ff6e96&text_color=c9d1d9&ring_color=ff6e96" alt="GitHub Stats" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=GuyGuyPeres&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=7eb8d4&icon_color=7eb8d4&text_color=c9d1d9&ring_color=4a90b8" alt="GitHub Stats" height="180"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuyGuyPeres&layout=compact&theme=radical&hide_border=true&langs_count=6&bg_color=0d1117&title_color=ff6e96&text_color=c9d1d9" alt="Top Languages" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuyGuyPeres&layout=compact&hide_border=true&langs_count=6&bg_color=0d1117&title_color=7eb8d4&text_color=c9d1d9" alt="Top Languages" height="180"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=GuyGuyPeres&theme=radical&hide_border=true&background=0d1117&ring=ff6e96&fire=ff6e96&currStreakLabel=ff6e96&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=GuyGuyPeres&hide_border=true&background=0d1117&ring=4a90b8&fire=7eb8d4&currStreakLabel=7eb8d4&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GuyGuyPeres&bg_color=0d1117&color=ff6e96&line=ff6e96&point=ffffff&area=true&area_color=ff6e9630&hide_border=true" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GuyGuyPeres&bg_color=0d1117&color=7eb8d4&line=4a90b8&point=ffffff&area=true&area_color=4a90b830&hide_border=true" alt="Contribution Graph" />
 
 </div>
 
