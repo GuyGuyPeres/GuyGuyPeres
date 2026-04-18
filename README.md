@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **DevOps Engineer** with a solid background in software development - bridging the gap between code and infrastructure to build systems that are fast, reliable, and scalable.
+I'm a **DevOps Engineer** with a solid background in software development, bridging the gap between code and infrastructure to build systems that are fast, reliable, and scalable.
 
 - 🔭 **Current Focus:** Optimizing CI/CD pipelines and scaling containerized microservices
 - ⚙️ **What I Do:** Automate everything - from local dev environments to multi-region cloud deployments
