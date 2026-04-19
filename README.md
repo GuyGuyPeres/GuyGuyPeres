@@ -56,7 +56,7 @@ I'm a **DevOps Engineer** with a solid background in software development, bridg
 
 <img src="https://github-readme-stats.vercel.app/api?username=GuyGuyPeres&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=7eb8d4&icon_color=7eb8d4&text_color=c9d1d9&ring_color=4a90b8" alt="GitHub Stats" height="180"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuyGuyPeres&layout=compact&hide_border=true&langs_count=6&bg_color=0d1117&title_color=7eb8d4&text_color=c9d1d9" alt="Top Languages" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuyGuyPeres&layout=compact&hide_border=true&langs_count=4&bg_color=0d1117&title_color=7eb8d4&text_color=c9d1d9" alt="Top Languages" height="180"/>
 
 <br/><br/>
 
