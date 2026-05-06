@@ -52,20 +52,24 @@ I'm a **DevOps Engineer** with a solid background in software development, bridg
 ---
 
 ## 📊 GitHub Stats
- 
-<div align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GuyGuyPeres&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=7eb8d4&icon_color=7eb8d4&text_color=c9d1d9&ring_color=4a90b8" alt="GitHub Stats" height="180"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GuyGuyPeres&layout=compact&hide_border=true&langs_count=4&bg_color=0d1117&title_color=7eb8d4&text_color=c9d1d9" alt="Top Languages" height="180"/>
-<br/><br/>
- 
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=GuyGuyPeres&hide_border=true&background=0d1117&ring=4a90b8&fire=7eb8d4&currStreakLabel=7eb8d4&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak" />
-<br/><br/>
- 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GuyGuyPeres&bg_color=0d1117&color=7eb8d4&line=4a90b8&point=ffffff&area=true&area_color=4a90b830&hide_border=true" alt="Contribution Graph" />
-</div>
----
 
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=GuyGuyPeres&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=7eb8d4&icon_color=7eb8d4&text_color=c9d1d9&ring_color=4a90b8" alt="GitHub Stats" height="180"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuyGuyPeres&layout=compact&hide_border=true&langs_count=4&bg_color=0d1117&title_color=7eb8d4&text_color=c9d1d9" alt="Top Languages" height="180"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=GuyGuyPeres&hide_border=true&background=0d1117&ring=4a90b8&fire=7eb8d4&currStreakLabel=7eb8d4&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GuyGuyPeres&bg_color=0d1117&color=7eb8d4&line=4a90b8&point=ffffff&area=true&area_color=4a90b830&hide_border=true" alt="Contribution Graph" />
+
+</div>
+
+---
 
 ## 📂 Featured Projects
 
