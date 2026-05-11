@@ -55,11 +55,13 @@ I'm a **DevOps Engineer** with a solid background in software development, bridg
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=GuyGuyPeres&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophies" />
-
-<br/><br/>
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GuyGuyPeres&theme=github_dark" alt="Profile Details" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GuyGuyPeres&theme=github_dark" alt="Stats" height="180"/>
+&nbsp;&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GuyGuyPeres&theme=github_dark&utcOffset=3" alt="Productive Time" height="180"/>
 
 <br/>
 
