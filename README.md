@@ -55,19 +55,9 @@ I'm a **DevOps Engineer** with a solid background in software development, bridg
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GuyGuyPeres&theme=github_dark" alt="Profile Details" />
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GuyGuyPeres&theme=github_dark" alt="Stats" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=GuyGuyPeres&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
 &nbsp;&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GuyGuyPeres&theme=github_dark&utcOffset=3" alt="Productive Time" height="180"/>
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GuyGuyPeres&theme=github_dark" alt="Repos Per Language" height="180"/>
-&nbsp;&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GuyGuyPeres&theme=github_dark" alt="Most Commit Language" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuyGuyPeres&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" alt="Top Languages" height="180"/>
 
 <br/><br/>
 
