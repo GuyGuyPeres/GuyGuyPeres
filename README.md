@@ -77,11 +77,11 @@ I'm a **DevOps Engineer** with a solid background in software development, bridg
 | Project | Description | Stack |
 |:--------|:------------|:------|
 | 🏧 [**ArgumentCapital MongoDB Chat**](https://github.com/GuyGuyPeres/ArgumentCapitalMongoDBchat) | ATM desktop simulation with secure PIN auth, financial transactions, and integrated live MongoDB-powered customer support chat | Python · MongoDB · customtkinter |
-| 🚨 [**Pikud HaOref Discord Alerts**](https://github.com/GuyGuyPeres/PikudHaorefDiscordAlerts) | Real-time Discord bot that polls the Israeli Home Front Command API and broadcasts live alerts with affected cities and safety instructions | JavaScript · Node.js · Discord.js |
+| 🛡️ [**Discord Administration Bot - Marshal**](https://github.com/GuyGuyPeres/Discord-Administration-Bot-Marshal) | Free, open-source multi-feature Discord administration and moderation bot with automod, SQLite persistence, and PM2 process management | JavaScript · Discord.js · SQLite · Docker |
 | 🍽️ [**Table Reserve Project**](https://github.com/GuyGuyPeres/Guys-Table-Reserve-Project) | Full-stack restaurant reservation app with async FastAPI backend, JWT-secured admin dashboard, atomic slot management, and MongoDB Atlas | Python · FastAPI · MongoDB · HTML/JS |
-| 🔗 [**Flask API Mini Project**](https://github.com/GuyGuyPeres/Flask_API_MiniProject) | Modular REST API for a todo list with full CRUD, Blueprint architecture, and a dark-themed animated frontend | Python · Flask · MongoDB |
 | 🎮 [**TicTacToe Algorithm**](https://github.com/GuyGuyPeres/TicTacToe_Algo) | CS matriculation project featuring an advanced algorithmic Tic Tac Toe engine with OOP design and competitive gameplay logic | JavaScript |
-| 🛡️ [**Discord Administration Bot - Marshal**](https://github.com/GuyGuyPeres/Discord-Administration-Bot-Marshal) | Free, open-source multi-feature Discord administration and moderation bot with automod, SQLite persistence, and PM2 process management | JavaScript · Discord.js · SQLite |
+| 🔗 [**Flask API Mini Project**](https://github.com/GuyGuyPeres/Flask_API_MiniProject) | Modular REST API for a todo list with full CRUD, Blueprint architecture, and a dark-themed animated frontend | Python · Flask · MongoDB |
+| 🚨 [**Pikud HaOref Discord Alerts**](https://github.com/GuyGuyPeres/PikudHaorefDiscordAlerts) | Real-time Discord bot that polls the Israeli Home Front Command API and broadcasts live alerts with affected cities and safety instructions | JavaScript · Node.js · Discord.js |
 
 ---
 
