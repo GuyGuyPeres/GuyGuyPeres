@@ -59,13 +59,13 @@ I'm a **DevOps Engineer** with a solid background in software development, bridg
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards-ochre.vercel.app/api/cards/profile-details?username=GuyGuyPeres&theme=tokyonight" alt="Profile Details" />
+<img src="https://github-profile-summary-cards-ochre.vercel.app/api/cards/profile-details?username=GuyGuyPeres&theme=tokyonight&title_color=4da6ff&text_color=c9d1d9&bg_color=0d1117&border_color=0d1f3c&icon_color=4da6ff" alt="Profile Details" />
 
 <br/>
 
-<img src="https://github-readme-stats-one-indol-95.vercel.app/api?username=GuyGuyPeres&show_icons=true&theme=tokyonight" alt="Stats" height="180"/>
+<img src="https://github-readme-stats-one-indol-95.vercel.app/api?username=GuyGuyPeres&show_icons=true&title_color=4da6ff&text_color=c9d1d9&bg_color=0d1117&border_color=0d1f3c&icon_color=4da6ff&ring_color=4da6ff" alt="Stats" height="180"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats-one-indol-95.vercel.app/api/top-langs/?username=GuyGuyPeres&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
+<img src="https://github-readme-stats-one-indol-95.vercel.app/api/top-langs/?username=GuyGuyPeres&layout=compact&title_color=4da6ff&text_color=c9d1d9&bg_color=0d1117&border_color=0d1f3c" alt="Top Languages" height="180"/>
 
 </div>
 
