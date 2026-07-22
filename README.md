@@ -59,7 +59,7 @@ I'm a **DevOps Engineer** with a solid background in software development, bridg
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards-ochre.vercel.app/api/cards/profile-details?username=GuyGuyPeres&theme=tokyonight&title_color=4da6ff&text_color=c9d1d9&bg_color=0d1117&border_color=0d1f3c&icon_color=4da6ff" alt="Profile Details" />
+<img src="https://github-profile-summary-cards-ochre.vercel.app/api/cards/profile-details?username=GuyGuyPeres&theme=tokyonight&title_color=4da6ff&text_color=c9d1d9&bg_color=0d1117&border_color=0d1f3c&icon_color=4da6ff&chart_color=4da6ff" alt="Profile Details" />
 
 <br/>
 
