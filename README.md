@@ -59,6 +59,10 @@ I'm a **DevOps Engineer** with a solid background in software development, bridg
 
 <div align="center">
 
+<img src="https://github-profile-summary-cards-ochre.vercel.app/api/cards/profile-details?username=GuyGuyPeres&theme=tokyonight" alt="Profile Details" />
+
+<br/>
+
 <img src="https://github-readme-stats-one-indol-95.vercel.app/api?username=GuyGuyPeres&show_icons=true&theme=tokyonight" alt="Stats" height="180"/>
 &nbsp;&nbsp;
 <img src="https://github-readme-stats-one-indol-95.vercel.app/api/top-langs/?username=GuyGuyPeres&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
