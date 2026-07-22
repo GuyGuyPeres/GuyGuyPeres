@@ -34,7 +34,7 @@ I'm a **DevOps Engineer** with a solid background in software development, bridg
       </a>
     </td>
     <td>
-      <h3>AWS Certified Solutions Architect – Associate</h3>
+      <h3>AWS Certified Solutions Architect - Associate</h3>
       <p><b>Issued by</b> Amazon Web Services (AWS)</p>
       <a href="https://www.credly.com/badges/2247ee0c-6a9d-4197-8a11-06eb08ee9c14/public_url">
         <img src="https://img.shields.io/badge/Verify%20on%20Credly-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Verify on Credly" />
