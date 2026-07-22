@@ -22,21 +22,24 @@ I'm a **DevOps Engineer** with a solid background in software development, bridg
 
 ---
 
-## 🏅 Credentials
+## 📜 Certifications
 
-<div align="center">
-
-<a href="https://www.credly.com/badges/2247ee0c-6a9d-4197-8a11-06eb08ee9c14/public_url">
-  <img src="https://images.credly.com/size/160x160/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect - Associate" width="120" />
-</a>
-
-<br/>
-
-**AWS Certified Solutions Architect Associate**
-
-[![Verify](https://img.shields.io/badge/Verify%20on%20Credly-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/2247ee0c-6a9d-4197-8a11-06eb08ee9c14/public_url)
-
-</div>
+<table>
+  <tr>
+    <td align="center" width="190">
+      <a href="https://www.credly.com/badges/2247ee0c-6a9d-4197-8a11-06eb08ee9c14/public_url">
+        <img src="https://images.credly.com/size/160x160/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect - Associate" width="150" />
+      </a>
+    </td>
+    <td>
+      <h3>AWS Certified Solutions Architect – Associate</h3>
+      <p><b>Issued by</b> Amazon Web Services (AWS)</p>
+      <a href="https://www.credly.com/badges/2247ee0c-6a9d-4197-8a11-06eb08ee9c14/public_url">
+        <img src="https://img.shields.io/badge/Verify%20on%20Credly-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Verify on Credly" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
