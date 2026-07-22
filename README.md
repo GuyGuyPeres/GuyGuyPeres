@@ -24,6 +24,8 @@ I'm a **DevOps Engineer** with a solid background in software development, bridg
 
 ## 📜 Certifications
 
+<div align="center">
+
 <table>
   <tr>
     <td align="center" width="190">
@@ -40,6 +42,8 @@ I'm a **DevOps Engineer** with a solid background in software development, bridg
     </td>
   </tr>
 </table>
+
+</div>
 
 ---
 
