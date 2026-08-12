@@ -4,6 +4,10 @@
 
 <br/>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-guyperes.dev-4da6ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.guyperes.dev)
+
+<br/>
+
 > *"The right man in the wrong place can make all the difference in the world." - (G-Man, Half-Life 2)*
 
 <br/>
@@ -15,10 +19,12 @@
 
 I'm a **DevOps Engineer** with a solid background in software development, bridging the gap between code and infrastructure to build systems that are fast, reliable, and scalable.
 
+- 🎓 **Education:** Graduated the **IITC DevOps Engineering program** - hands-on training across Linux, Docker, Kubernetes, Terraform, CI/CD, and AWS
 - 🔭 **Current Focus:** Optimizing CI/CD pipelines and scaling containerized microservices
 - ⚙️ **What I Do:** Automate everything - from local dev environments to multi-region cloud deployments
 - 💡 **Philosophy:** *If you have to do it twice, automate it.* And always test before you push 😄
-- 🌱 **Learning:** Currently deepening my knowledge through the IITC DevOps program
+- 🌱 **Learning:** Deepening my production Kubernetes and IaC practice - GitOps workflows, cluster hardening, and cost-aware infrastructure
+- 🌐 **Portfolio:** [guyperes.dev](https://www.guyperes.dev)
 
 ---
 
@@ -100,6 +106,7 @@ I'm a **DevOps Engineer** with a solid background in software development, bridg
 
 | Project | Description | Stack |
 |:--------|:------------|:------|
+| 🚁 **SwarmOps** <br/> <sub>🔒 Private - [message me](https://www.linkedin.com/in/guyperes/) for details</sub> | Microservice platform on AWS EKS that assigns and reroutes a drone fleet in real time, with a battery-aware route optimizer (Hungarian matching, OR-Tools), event-driven replanning over RabbitMQ, and GitOps delivery with automatic canary rollback | Python · FastAPI · Kubernetes · AWS · Argo CD |
 | 🏧 [**ArgumentCapital MongoDB Chat**](https://github.com/GuyGuyPeres/ArgumentCapitalMongoDBchat) | ATM desktop simulation with secure PIN auth, financial transactions, and integrated live MongoDB-powered customer support chat | Python · MongoDB · customtkinter |
 | 🛡️ [**Discord Administration Bot - Marshal**](https://github.com/GuyGuyPeres/Discord-Administration-Bot-Marshal) | Free, open-source multi-feature Discord administration and moderation bot with automod, SQLite persistence, and PM2 process management | JavaScript · Discord.js · SQLite · Docker |
 | 🍽️ [**Table Reserve Project**](https://github.com/GuyGuyPeres/Guys-Table-Reserve-Project) | Full-stack restaurant reservation app with async FastAPI backend, JWT-secured admin dashboard, atomic slot management, and MongoDB Atlas | Python · FastAPI · MongoDB · HTML/JS |
@@ -113,10 +120,11 @@ I'm a **DevOps Engineer** with a solid background in software development, bridg
 
 <div align="center">
 
-I'm always open to collaborating on interesting DevOps projects, discussing automation strategies, or just geeking out about infrastructure.
+Fresh out of the IITC DevOps program and **actively looking for my next role**. Always open to collaborating on interesting DevOps projects, discussing automation strategies, or just geeking out about infrastructure.
 
 <br/>
 
+[![Portfolio](https://img.shields.io/badge/Visit%20guyperes.dev-4da6ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.guyperes.dev)
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guyperes/)
 [![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GuyGuyPeres)
 
